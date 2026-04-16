@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/a.out.dir/src/main.c.o -o a.out  background/libbackground.a pipes/libpipes.a 
