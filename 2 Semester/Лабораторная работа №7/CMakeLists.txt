@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 3.10)
-project(MyProject)
-add_library(mylog ${TYPE} Func.c main.c)
-add_executable(student_prog main.c)
-target_link_libraries(student_prog mylog)

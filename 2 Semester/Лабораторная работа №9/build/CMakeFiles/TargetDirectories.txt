@@ -1,4 +1,0 @@
-/mnt/c/Users/krivo/Программирование 1 курс/2 Семестр/Лабораторная работа №9/build/CMakeFiles/TEST_MAIN.dir
-/mnt/c/Users/krivo/Программирование 1 курс/2 Семестр/Лабораторная работа №9/build/CMakeFiles/test.dir
-/mnt/c/Users/krivo/Программирование 1 курс/2 Семестр/Лабораторная работа №9/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/krivo/Программирование 1 курс/2 Семестр/Лабораторная работа №9/build/CMakeFiles/rebuild_cache.dir

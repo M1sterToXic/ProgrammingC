@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -shared -Wl,-soname,libmylog.so -o libmylog.so CMakeFiles/mylog.dir/Func.c.o CMakeFiles/mylog.dir/main.c.o 

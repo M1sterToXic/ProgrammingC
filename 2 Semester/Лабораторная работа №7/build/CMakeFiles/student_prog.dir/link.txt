@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/student_prog.dir/main.c.o -o student_prog  -Wl,-rpath,"/mnt/c/Users/krivo/Программирование 1 курс/2 Семестр/Лабораторная работа №7/build" libmylog.so 

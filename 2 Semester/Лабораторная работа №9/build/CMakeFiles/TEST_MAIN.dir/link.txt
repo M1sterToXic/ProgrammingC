@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/TEST_MAIN.dir/Tester.c.o CMakeFiles/TEST_MAIN.dir/test_main.c.o -o TEST_MAIN  -lcmocka 
